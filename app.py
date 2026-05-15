@@ -1,5 +1,6 @@
 import streamlit as st
-from streamlit_gsheets import GSheetsConnection
+import pandas as pd
+# ลบบรรทัดที่เขียนว่า from streamlit_gsheets import ... ออกไปเลยครับ
 import pandas as pd
 import datetime
 
